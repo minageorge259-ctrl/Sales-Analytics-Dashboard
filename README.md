@@ -117,7 +117,7 @@ This project demonstrates practical skills in:
 * Interactive Data Analysis
 * VBA Automation
 * Business Reporting
-![Dashboard](images/First photo.png)
+![Dashboard](Images/First photo.png)
 
 ![Dashboard](images/Sales_Analytics_Dashboard_Dark_HD.png)
 
