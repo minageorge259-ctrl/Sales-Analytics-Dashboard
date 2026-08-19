@@ -121,7 +121,7 @@ This project demonstrates practical skills in:
 
 ![Dashboard](images/Sales_Analytics_Dashboard_Dark_HD.png)
 
-![Dashboard](images/Sales_Analytics_Dashboard_Light_HD.png)
+![Dashboard](Images/Sales_Analytics_Dashboard_Light_HD.png)
 
 ## 👨‍💻 Author
 
