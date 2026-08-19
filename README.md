@@ -118,7 +118,7 @@ This project demonstrates practical skills in:
 * VBA Automation
 * Business Reporting
 
-![Dashboard](Images/First photo.png)
+![Dashboard](Images/First_photo.png)
 
 ![Dashboard](Images/Sales_Analytics_Dashboard_Dark_HD.png)
 
